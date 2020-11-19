@@ -1,1 +1,0 @@
-TARGET_STOCK = 'shop'
